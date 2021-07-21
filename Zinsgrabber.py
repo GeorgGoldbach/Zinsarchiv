@@ -3,6 +3,7 @@ import subprocess
 import os.path
 from datetime import datetime
 import re
+import fileinput
 
 def search_string_in_file(filename, searchstring):
     """Search for given string in file and return lines containing that string
@@ -21,6 +22,10 @@ def search_string_in_file(filename, searchstring):
     # Return list of tuples containing line numbers and lines where string is found
     return resultlist
 
+# Globale Parameter
+tableindex = {'AON': 1, 'Heubeck': 2, 'KMKOLL': 3, 'Mercer': 4, 'WTW': 5}
+check = "&#10004;"
+cross = "&#10060;"
 
 # Mercer
 # ======
@@ -172,6 +177,12 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
         reportmonthdir = f"{year}-{month}"
         if not os.path.exists(reportmonthdir):
             os.mkdir(reportmonthdir)
+            # Create new table entry in README.md
+            for line in fileinput.FileInput("README.md", inplace=1):
+                if line.startswith(':---'):
+                    newline = f"{reportmonthdir} | {cross} | {cross} | {cross} | {cross} | {cross} |"
+                    line = line.replace(line,line + newline + "\n")
+                print(line, end='')
 
         line = line.split(cutindicatorleft)[1]
         fileurlending = line.split(cutindicatorright, 1)[0] + cutindicatorright
@@ -190,6 +201,24 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
             zinsurls = open(f"{reportmonthdir}/ZinsURLs-{year}-{month}.txt", mode='a')
             zinsurls.write(fileurl + "\n")
             zinsurls.close()
+
+            # Read image (OCR), in other words: convert png to csv
+            if actuary == "Mercer" and i == 2:
+                fileoutname = fileout.split('.')[0]
+                subprocess.run(["tesseract", "-l", "deu+eng", fileout, fileoutname])
+                subprocess.run(["mv", fileoutname + ".txt", fileoutname + "_OCR.csv"])
+
+            # Check table entry in README.md
+            for line in fileinput.FileInput("README.md", inplace=1):
+                if line.startswith(reportmonthdir):
+                    linesplit = line.split('|')
+                    if cross in linesplit[tableindex[actuary]]:
+                        linesplit[tableindex[actuary]] = f" {check} "
+                        newline = ""
+                        for entry in linesplit[:-1]:
+                            newline = newline + entry + "|"
+                        line = newline + "\n"
+                print(line, end='')
 
         i += 1
 
