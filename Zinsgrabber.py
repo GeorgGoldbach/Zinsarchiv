@@ -178,11 +178,16 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
         if not os.path.exists(reportmonthdir):
             os.mkdir(reportmonthdir)
             # Create new table entry in README.md
-            for line in fileinput.FileInput("README.md", inplace=1):
-                if line.startswith(':---'):
-                    newline = f"{reportmonthdir} | {cross} | {cross} | {cross} | {cross} | {cross} |"
-                    line = line.replace(line,line + newline + "\n")
-                print(line, end='')
+            for readmeline in fileinput.FileInput("README.md", inplace=1):
+                if readmeline.startswith(':---'):
+                    newreadmeline = f"{reportmonthdir} | {cross} | {cross} | {cross} | {cross} | {cross} |"
+                    readmeline = readmeline.replace(readmeline,readmeline + newreadmeline + "\n")
+                print(readmeline, end='')
+            # create README with Download Directory Link
+            readmemonth = open(f"{reportmonthdir}/README.md", mode='a')
+            readmemonth.write(f"[**Download {reportmonthdir}**](https://downgit.github.io/#/home?url=https://github.com/GeorgGoldbach/Zinsarchiv/tree/master/{reportmonthdir})\n\n")
+            readmemonth.write("**Quellen:**\n")
+            readmemonth.close()
 
         line = line.split(cutindicatorleft)[1]
         fileurlending = line.split(cutindicatorright, 1)[0] + cutindicatorright
@@ -198,9 +203,9 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
             subprocess.run(["wget", "--no-check-certificate", fileurl, "-O", fileout], stderr=subprocess.DEVNULL)
             print(f"File downloaded: {fileout}")
 
-            zinsurls = open(f"{reportmonthdir}/ZinsURLs-{year}-{month}.txt", mode='a')
-            zinsurls.write(fileurl + "\n")
-            zinsurls.close()
+            readmemonth = open(f"{reportmonthdir}/README.md", mode='a')
+            readmemonth.write(fileurl + "\n")
+            readmemonth.close()
 
             # Read image (OCR), in other words: convert png to csv
             if actuary == "Mercer" and i == 2:
