@@ -204,7 +204,7 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
             print(f"File downloaded: {fileout}")
 
             readmemonth = open(f"{reportmonthdir}/README.md", mode='a')
-            readmemonth.write(fileurl + "\n")
+            readmemonth.write("* " + fileurl + "\n")
             readmemonth.close()
 
             # Read image (OCR), in other words: convert png to csv
