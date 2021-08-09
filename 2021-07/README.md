@@ -13,3 +13,4 @@
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/08/HI_IFRS_Rechnungszins_dt_2021-07-31.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/08/HI_IFRS_Rechnungszins_en_2021-07-31.pdf
+* https://www.willistowerswatson.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Juli-2021.pdf
