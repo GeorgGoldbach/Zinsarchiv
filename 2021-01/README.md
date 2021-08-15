@@ -4,3 +4,5 @@
 * https://www.willistowerswatson.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Januar-2021.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/02/HI_IFRS_Rechnungszins_dt_2021-01-31.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/02/HI_IFRS_Rechnungszins_en_2021-01-31.pdf
+* https://twitter.com/Juergen_Fodor/status/1356607427655958533
+* https://twitter.com/Juergen_Fodor/status/1356606762175062026

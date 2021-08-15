@@ -4,3 +4,5 @@
 * https://www.willistowerswatson.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Juni-2020.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2020/07/HI_IFRS_Rechnungszins_dt_2020-06-30.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2020/07/HI_IFRS_Rechnungszins_en_2020-06-30.pdf
+* https://twitter.com/Juergen_Fodor/status/1278721233169850369
+* https://twitter.com/Juergen_Fodor/status/1278602086574424084

@@ -4,3 +4,5 @@
 * https://www.willistowerswatson.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-September-2020.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2020/10/HI_IFRS_Rechnungszins_dt_2020-09-30.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2020/10/HI_IFRS_Rechnungszins_en_2020-09-30.pdf
+* https://twitter.com/Juergen_Fodor/status/1311947978446434304
+* https://twitter.com/Juergen_Fodor/status/1311947264118738944

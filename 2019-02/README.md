@@ -3,3 +3,4 @@
 **Quellen:**
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2019/03/HI_IFRS_Rechnungszins_dt_2019-02-28.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2019/03/HI_IFRS_Rechnungszins_en_2019-02-28.pdf
+* https://twitter.com/Juergen_Fodor/status/1102840967915278337

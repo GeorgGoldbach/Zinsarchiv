@@ -3,3 +3,4 @@
 **Quellen:**
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2018/10/HI_IFRS_Rechnungszins_dt_2018-10-31_1_.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2018/10/HI_IFRS_Rechnungszins_en_2018-10-31_1_.pdf
+* https://twitter.com/Juergen_Fodor/status/1058307826551005184

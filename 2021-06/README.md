@@ -14,3 +14,5 @@
 * https://www.willistowerswatson.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Juni-2021.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/07/HI_IFRS_Rechnungszins_dt_2021-06-30.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/07/HI_IFRS_Rechnungszins_en_2021-06-30.pdf
+* https://twitter.com/Juergen_Fodor/status/1410884130263474177
+* https://twitter.com/Juergen_Fodor/status/1410883490023936003

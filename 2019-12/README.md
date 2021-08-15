@@ -4,3 +4,5 @@
 * https://www.willistowerswatson.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Dezember-2019.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2020/01/HI_IFRS_Rechnungszins_dt_2019-12-31.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2020/01/HI_IFRS_Rechnungszins_en_2019-12-31.pdf
+* https://twitter.com/Juergen_Fodor/status/1212783171844096001
+* https://twitter.com/Juergen_Fodor/status/1207557427937337344
