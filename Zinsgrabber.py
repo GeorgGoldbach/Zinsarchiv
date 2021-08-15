@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 import subprocess
 import os.path
-from datetime import datetime
 import re
 import fileinput
 
@@ -23,7 +22,7 @@ def search_string_in_file(filename, searchstring):
     return resultlist
 
 # Globale Parameter
-tableindex = {'AON': 1, 'Heubeck': 2, 'KMKOLL': 3, 'Mercer': 4, 'WTW': 5}
+tableindex = {'AON': 1, 'Heubeck': 2, 'KMKOLL': 3, 'Mercer': 4, 'WTW': 5, 'Fodor': 6}
 check = "&#10004;"
 cross = "&#10060;"
 
@@ -180,7 +179,7 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
             # Create new table entry in README.md
             for readmeline in fileinput.FileInput("README.md", inplace=1):
                 if readmeline.startswith(':---'):
-                    newreadmeline = f"{reportmonthdir} | {cross} | {cross} | {cross} | {cross} | {cross} |"
+                    newreadmeline = f"{reportmonthdir} | {cross} | {cross} | {cross} | {cross} | {cross} | {cross} |"
                     readmeline = readmeline.replace(readmeline,readmeline + newreadmeline + "\n")
                 print(readmeline, end='')
             # create README with Download Directory Link
@@ -203,8 +202,9 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
             subprocess.run(["wget", "--no-check-certificate", fileurl, "-O", fileout], stderr=subprocess.DEVNULL)
             print(f"File downloaded: {fileout}")
 
-            readmemonth = open(f"{reportmonthdir}/README.md", mode='a')
-            readmemonth.write("* " + fileurl + "\n")
+            readmemonth = open(f"{reportmonthdir}/README.md", mode='r+')
+            if fileurl not in readmemonth.read():
+                readmemonth.write("* " + fileurl + "\n")
             readmemonth.close()
 
             # Read image (OCR), in other words: convert png to csv
