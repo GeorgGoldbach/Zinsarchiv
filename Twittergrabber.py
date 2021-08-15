@@ -14,6 +14,10 @@ cross = "&#10060;"
 
 shot_height = "800"
 
+# START
+print(actuary)
+print("=" * len(actuary))
+
 # Get current date
 lastmonth = (datetime.today() - relativedelta(months=1)).strftime('%Y-%m-01')
 
@@ -114,7 +118,7 @@ for index, row in tweets.iterrows():
     if os.path.isfile(fileout):
         print(f"File already exists: {fileout}")
     else:
-        subprocess.run(["/usr/bin/chromium", "--headless", "--hide-scrollbars", f"--window-size=1920,{shot_height}", f"--screenshot={fileout}", tweetlink, "--virtual-time-budget=50000"], stderr=subprocess.DEVNULL)
+        subprocess.run(["/usr/bin/google-chrome", "--headless", "--hide-scrollbars", f"--window-size=1920,{shot_height}", f"--screenshot={fileout}", tweetlink, "--run-all-compositor-stages-before-draw", "--virtual-time-budget=100000"], stderr=subprocess.DEVNULL)
         print(f"File downloaded: {fileout}")
 
         readmemonth = open(f"{reportmonthdir}/README.md", mode='r+')

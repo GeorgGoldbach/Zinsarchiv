@@ -30,8 +30,11 @@ jobs:
       - name: Grab Discount Rates
         run: |
           sudo apt-get update -y >/dev/null 2>&1
-          sudo apt-get install -y python3 tesseract-ocr tesseract-ocr-deu >/dev/null 2>&1
+          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb >/dev/null 2>&1
+          sudo apt-get install -y python3 tesseract-ocr tesseract-ocr-deu python3-pip ./google-chrome-stable_current_amd64.deb >/dev/null 2>&1
+          pip3 install --upgrade -e git+https://github.com/twintproject/twint.git@origin/master#egg=twint >/dev/null 2>&1
           python3 Zinsgrabber.py
+          python3 Twittergrabber.py
           git config user.name "GeorgGoldbach"
           git config user.email "87702150+GeorgGoldbach@users.noreply.github.com"
           git add .
