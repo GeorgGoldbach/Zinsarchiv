@@ -11,3 +11,5 @@
 * https://www.aon.com/getmedia/fc250d16-5b94-44e2-974d-5cd00f66443f/Rechnungszinsinformation_Eurozone.pdf
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
 * https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
+* https://twitter.com/Juergen_Fodor/status/1433335684916551681
+* https://twitter.com/Juergen_Fodor/status/1433335083340021762
