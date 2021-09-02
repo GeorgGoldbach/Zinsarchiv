@@ -13,3 +13,4 @@
 * https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
 * https://twitter.com/Juergen_Fodor/status/1433335684916551681
 * https://twitter.com/Juergen_Fodor/status/1433335083340021762
+* https://www.willistowerswatson.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-August-2021.pdf
