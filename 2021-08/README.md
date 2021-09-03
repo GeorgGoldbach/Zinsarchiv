@@ -14,3 +14,5 @@
 * https://twitter.com/Juergen_Fodor/status/1433335684916551681
 * https://twitter.com/Juergen_Fodor/status/1433335083340021762
 * https://www.willistowerswatson.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-August-2021.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/09/HI_IFRS_Rechnungszins_dt_2021-08-31.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/09/HI_IFRS_Rechnungszins_en_2021-08-31.pdf
