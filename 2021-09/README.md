@@ -8,3 +8,5 @@
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
 * https://twitter.com/Juergen_Fodor/status/1444936750527303682
 * https://twitter.com/Juergen_Fodor/status/1444936202046644225
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/10/HI_IFRS_Rechnungszins_dt_2021-09-30.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/10/HI_IFRS_Rechnungszins_en_2021-09-30.pdf
