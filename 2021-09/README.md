@@ -11,3 +11,8 @@
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/10/HI_IFRS_Rechnungszins_dt_2021-09-30.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/10/HI_IFRS_Rechnungszins_en_2021-09-30.pdf
 * https://www.willistowerswatson.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-September-2021.pdf
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-09-30-mercer-1.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-09-30-mercer-2.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-09-30-mercer-3.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-09-30-mercer-4.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-09-30-mercer-5.png
