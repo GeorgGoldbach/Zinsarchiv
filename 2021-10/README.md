@@ -6,3 +6,10 @@
 * https://www.aon.com/getmedia/b423ed74-f07a-4088-931e-d5ced81e4bda/Rechnungszinsinformation_Subindex_EN.pdf
 * https://www.aon.com/getmedia/fc250d16-5b94-44e2-974d-5cd00f66443f/Rechnungszinsinformation_Eurozone.pdf
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
+* https://www.mercer.de/content/dam/mercer/assets/content-images/GER2021-10-31%20mercer1.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/GER2021-10-31%20mercer2.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/GER2021-10-31%20mercer3.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/GER2021-10-31%20mercer4.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/GER2021-10-31%20mercer5.png
+* https://twitter.com/Juergen_Fodor/status/1455559857784991748
+* https://twitter.com/Juergen_Fodor/status/1455559056840695810
