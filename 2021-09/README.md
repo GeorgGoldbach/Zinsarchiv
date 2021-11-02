@@ -16,3 +16,8 @@
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-09-30-mercer-3.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-09-30-mercer-4.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-09-30-mercer-5.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/GER2021-10-31%20mercer1.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/GER2021-10-31%20mercer2.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/GER2021-10-31%20mercer3.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/GER2021-10-31%20mercer4.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/GER2021-10-31%20mercer5.png
