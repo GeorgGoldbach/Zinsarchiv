@@ -13,3 +13,5 @@
 * https://www.mercer.de/content/dam/mercer/assets/content-images/GER2021-10-31%20mercer5.png
 * https://twitter.com/Juergen_Fodor/status/1455559857784991748
 * https://twitter.com/Juergen_Fodor/status/1455559056840695810
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/11/HI_IFRS_Rechnungszins_dt_2021-10-31.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/11/HI_IFRS_Rechnungszins_en_2021-10-31.pdf
