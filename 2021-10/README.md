@@ -15,3 +15,4 @@
 * https://twitter.com/Juergen_Fodor/status/1455559056840695810
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/11/HI_IFRS_Rechnungszins_dt_2021-10-31.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/11/HI_IFRS_Rechnungszins_en_2021-10-31.pdf
+* https://www.willistowerswatson.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Oktober-2021.pdf
