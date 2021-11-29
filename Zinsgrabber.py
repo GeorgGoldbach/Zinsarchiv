@@ -35,8 +35,8 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
         actuaryurl = 'https://www.mercer.de/our-thinking/rechnungszins-fuer-ifrs-us-gaap-bilmog-bewertungen.html'
 
         # Indicators for reportdate
-        standindicator = 'tze (Stand '
-        cutstandindicatorleft = 'tze (Stand '
+        standindicator = '(Stand '
+        cutstandindicatorleft = '(Stand '
 
         # Indicators for fileurl
         fileurlbeginning = 'https://www.mercer.de'
