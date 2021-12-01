@@ -9,3 +9,5 @@
 * https://www.mercer.de/content/dam/mercer/assets/content-images/GER2021-10-31%20mercer5.png
 * https://www.aon.com/getmedia/6ee710d6-2e25-4a32-ab52-2bdef8b6e7bc/Rechnungszinsinformation_Subindex.pdf
 * https://www.aon.com/getmedia/b423ed74-f07a-4088-931e-d5ced81e4bda/Rechnungszinsinformation_Subindex_EN.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/12/HI_IFRS_Rechnungszins_dt_2021-11-30.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/12/HI_IFRS_Rechnungszins_en_2021-11-30.pdf
