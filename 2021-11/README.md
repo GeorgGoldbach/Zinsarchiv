@@ -11,3 +11,10 @@
 * https://www.aon.com/getmedia/b423ed74-f07a-4088-931e-d5ced81e4bda/Rechnungszinsinformation_Subindex_EN.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/12/HI_IFRS_Rechnungszins_dt_2021-11-30.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/12/HI_IFRS_Rechnungszins_en_2021-11-30.pdf
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-11-30-mercer-1.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-11-30-mercer-2.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-11-30-mercer-3.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-11-30-mercer-4.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-11-30-mercer-5.png
+* https://www.aon.com/getmedia/fc250d16-5b94-44e2-974d-5cd00f66443f/Rechnungszinsinformation_Eurozone.pdf
+* https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
