@@ -20,3 +20,4 @@
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
 * https://twitter.com/Juergen_Fodor/status/1466324798284480519
 * https://twitter.com/Juergen_Fodor/status/1466323893824761865
+* https://www.willistowerswatson.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-November-2021.pdf
