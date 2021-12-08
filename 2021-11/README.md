@@ -21,3 +21,5 @@
 * https://twitter.com/Juergen_Fodor/status/1466324798284480519
 * https://twitter.com/Juergen_Fodor/status/1466323893824761865
 * https://www.willistowerswatson.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-November-2021.pdf
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-12-06-mercer-2.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2021-de-12-06-mercer-3.png
