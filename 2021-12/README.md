@@ -12,3 +12,5 @@
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2021-12-13-de-mercer-2.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2021-12-13-de-mercer-3.png
 * https://twitter.com/Juergen_Fodor/status/1471773879056093190
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2021-12-20-de-mercer-2.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2021-12-20-de-mercer-3.png
