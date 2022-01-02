@@ -14,3 +14,5 @@
 * https://twitter.com/Juergen_Fodor/status/1471773879056093190
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2021-12-20-de-mercer-2.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2021-12-20-de-mercer-3.png
+* https://www.aon.com/getmedia/6ee710d6-2e25-4a32-ab52-2bdef8b6e7bc/Rechnungszinsinformation_Subindex.pdf
+* https://www.aon.com/getmedia/b423ed74-f07a-4088-931e-d5ced81e4bda/Rechnungszinsinformation_Subindex_EN.pdf
