@@ -19,3 +19,8 @@
 * https://www.willistowerswatson.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Dezember-2021.pdf
 * https://twitter.com/Juergen_Fodor/status/1477903949487345666
 * https://twitter.com/Juergen_Fodor/status/1477900815801196546
+* https://www.mercer.de/content/dam/mercer/assets/content-images/V1_2021-12-31%20mercer_1.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/V2_2021-12-31%20mercer_2.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/V3_2021-12-31%20mercer_3.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/V4_2021-12-31%20mercer_4.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/V5_2021-12-31%20mercer_5.png
