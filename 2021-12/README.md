@@ -24,3 +24,5 @@
 * https://www.mercer.de/content/dam/mercer/assets/content-images/V3_2021-12-31%20mercer_3.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/V4_2021-12-31%20mercer_4.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/V5_2021-12-31%20mercer_5.png
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/12/HI_IFRS_Rechnungszins_dt_2021-12-31.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2021/12/HI_IFRS_Rechnungszins_en_2021-12-31.pdf
