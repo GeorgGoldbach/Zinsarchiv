@@ -14,3 +14,6 @@
 * https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Januar-2022.pdf
 * https://twitter.com/Juergen_Fodor/status/1490707697095913477
 * https://twitter.com/Juergen_Fodor/status/1490706883153469447
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-de-new-01-31-mercer-1.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-de-new-01-31-mercer-2.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-de-new-01-31-mercer-3.png
