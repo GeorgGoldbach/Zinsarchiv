@@ -17,3 +17,5 @@
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-de-new-01-31-mercer-1.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-de-new-01-31-mercer-2.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-de-new-01-31-mercer-3.png
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/01/HI_IFRS_Rechnungszins_dt_2022-01-31.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/01/HI_IFRS_Rechnungszins_en_2022-01-31.pdf
