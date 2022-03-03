@@ -8,3 +8,8 @@
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
 * https://twitter.com/Juergen_Fodor/status/1499022836689743875
 * https://twitter.com/Juergen_Fodor/status/1499021909723389959
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-de-02-28-mercer-1.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-de-02-28-mercer-2.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-de-02-28-mercer-3.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-de-02-28-mercer-4.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-de-02-28-mercer-5.png
