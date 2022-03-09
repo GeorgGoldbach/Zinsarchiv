@@ -14,3 +14,5 @@
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-de-02-28-mercer-4.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-de-02-28-mercer-5.png
 * https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Februar-2022.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/02/HI_IFRS_Rechnungszins_dt_2022-02-28.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/02/HI_IFRS_Rechnungszins_en_2022-02-28.pdf
