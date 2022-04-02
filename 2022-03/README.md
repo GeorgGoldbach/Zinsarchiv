@@ -11,3 +11,5 @@
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-de-03-31-mercer-5.png
 * https://www.aon.com/getmedia/fc250d16-5b94-44e2-974d-5cd00f66443f/Rechnungszinsinformation_Eurozone.pdf
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/03/HI_IFRS_Rechnungszins_dt_2022-03-31.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/03/HI_IFRS_Rechnungszins_en_2022-03-31.pdf
