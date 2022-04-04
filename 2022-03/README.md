@@ -13,3 +13,5 @@
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/03/HI_IFRS_Rechnungszins_dt_2022-03-31.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/03/HI_IFRS_Rechnungszins_en_2022-03-31.pdf
+* https://twitter.com/Juergen_Fodor/status/1510910722921971715
+* https://twitter.com/Juergen_Fodor/status/1510909743015075841
