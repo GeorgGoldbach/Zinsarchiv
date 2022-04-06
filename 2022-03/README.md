@@ -15,3 +15,4 @@
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/03/HI_IFRS_Rechnungszins_en_2022-03-31.pdf
 * https://twitter.com/Juergen_Fodor/status/1510910722921971715
 * https://twitter.com/Juergen_Fodor/status/1510909743015075841
+* https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Maerz-2022.pdf
