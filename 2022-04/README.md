@@ -15,3 +15,4 @@
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/04/HI_IFRS_Rechnungszins_dt_2022-04-30.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/04/HI_IFRS_Rechnungszins_en_2022-04-30.pdf
+* https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-April-2022.pdf
