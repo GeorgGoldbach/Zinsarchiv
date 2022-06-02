@@ -13,3 +13,5 @@
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-05-31%20mercer.de%20-%20ger%20-%20pic5.png
 * https://twitter.com/Juergen_Fodor/status/1532295153226063872
 * https://twitter.com/Juergen_Fodor/status/1532294237018013698
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/05/HI_IFRS_Rechnungszins_dt_2022-05-31.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/05/HI_IFRS_Rechnungszins_en_2022-05-31.pdf
