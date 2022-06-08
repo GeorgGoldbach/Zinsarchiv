@@ -15,3 +15,4 @@
 * https://twitter.com/Juergen_Fodor/status/1532294237018013698
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/05/HI_IFRS_Rechnungszins_dt_2022-05-31.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/05/HI_IFRS_Rechnungszins_en_2022-05-31.pdf
+* https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Mai-2022.pdf
