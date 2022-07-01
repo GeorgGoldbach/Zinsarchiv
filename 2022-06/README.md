@@ -4,3 +4,8 @@
 * https://www.aon.com/getmedia/6ee710d6-2e25-4a32-ab52-2bdef8b6e7bc/Rechnungszinsinformation_Subindex.pdf
 * https://www.aon.com/getmedia/b423ed74-f07a-4088-931e-d5ced81e4bda/Rechnungszinsinformation_Subindex_EN.pdf
 * https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-06-30%20mercer1.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-06-30%20mercer2.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-06-30%20mercer3.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-06-30%20mercer4.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-06-30%20mercer5.png
