@@ -9,3 +9,4 @@
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/07/HI_IFRS_Rechnungszins_dt_2022-07-31.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/07/HI_IFRS_Rechnungszins_en_2022-07-31.pdf
 * https://twitter.com/Juergen_Fodor/status/1554403806502428672
+* https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Juli-2022.pdf
