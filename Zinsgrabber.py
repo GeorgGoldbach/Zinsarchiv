@@ -25,6 +25,7 @@ def search_string_in_file(filename, searchstring):
 tableindex = {'AON': 1, 'Heubeck': 2, 'KMKOLL': 3, 'Mercer': 4, 'WTW': 5, 'Fodor': 6}
 check = "&#10004;"
 cross = "&#10060;"
+useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.101 Safari/537.36"
 
 # Mercer
 # ======
@@ -101,7 +102,7 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
     print("=" * len(actuary))
 
     actuaryfile = f"{actuary}.txt"
-    subprocess.run(["wget", "--no-check-certificate", actuaryurl, "-O", actuaryfile], stderr=subprocess.DEVNULL)
+    subprocess.run(["wget", "--no-check-certificate", "--user-agent", useragent, actuaryurl, "-O", actuaryfile], stderr=subprocess.DEVNULL)
 
     # Search for reportdate 
     searchstand = search_string_in_file(actuaryfile, standindicator)
@@ -199,7 +200,7 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
         if os.path.isfile(fileout):
             print(f"File already exists: {fileout}")
         else:
-            subprocess.run(["wget", "--no-check-certificate", fileurl, "-O", fileout], stderr=subprocess.DEVNULL)
+            subprocess.run(["wget", "--no-check-certificate", "--user-agent", useragent, fileurl, "-O", fileout], stderr=subprocess.DEVNULL)
             print(f"File downloaded: {fileout}")
 
             readmemonth = open(f"{reportmonthdir}/README.md", mode='r+')
