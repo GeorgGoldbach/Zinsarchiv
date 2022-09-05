@@ -7,3 +7,4 @@
 * https://www.aon.com/getmedia/b423ed74-f07a-4088-931e-d5ced81e4bda/Rechnungszinsinformation_Subindex_EN.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/08/HI_IFRS_Rechnungszins_dt_2022-08-31.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/08/HI_IFRS_Rechnungszins_en_2022-08-31.pdf
+* https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-August-2022.pdf
