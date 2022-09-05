@@ -8,3 +8,4 @@
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/08/HI_IFRS_Rechnungszins_dt_2022-08-31.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/08/HI_IFRS_Rechnungszins_en_2022-08-31.pdf
 * https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-August-2022.pdf
+* https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
