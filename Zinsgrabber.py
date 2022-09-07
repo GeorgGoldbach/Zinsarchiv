@@ -41,7 +41,7 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
 
         # Indicators for fileurl
         fileurlbeginning = 'https://www.mercer.de'
-        fileurlindicator = 'src="/content/dam/mercer/assets/content-images/'
+        fileurlindicator = 'src="/content/dam/mercer/attachments/europe/Germany/'
         cutindicatorleft = 'src="'
         cutindicatorright = '.png'
 
