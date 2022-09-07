@@ -9,3 +9,8 @@
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/08/HI_IFRS_Rechnungszins_en_2022-08-31.pdf
 * https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-August-2022.pdf
 * https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2022-08-31%20mercer.de%20-%20ger%20-%20pic1.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2022-08-31%20mercer.de%20-%20ger%20-%20pic2.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2022-08-31%20mercer.de%20-%20ger%20-%20pic3.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2022-08-31%20mercer.de%20-%20ger%20-%20pic4.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2022-08-31%20mercer.de%20-%20ger%20-%20pic5.png
