@@ -9,3 +9,8 @@
 * https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/09/HI_IFRS_Rechnungszins_dt_2022-09-30.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/09/HI_IFRS_Rechnungszins_en_2022-09-30.pdf
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2022-09-30%20mercer1ger.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2022-09-30%20mercer2ger.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2022-09-30%20mercer3ger.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2022-09-30%20mercer4ger.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2022-09-30%20mercer5ger.png
