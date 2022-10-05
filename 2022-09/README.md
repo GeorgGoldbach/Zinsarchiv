@@ -7,3 +7,5 @@
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
 * https://twitter.com/Juergen_Fodor/status/1577197296449511424
 * https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/09/HI_IFRS_Rechnungszins_dt_2022-09-30.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/09/HI_IFRS_Rechnungszins_en_2022-09-30.pdf
