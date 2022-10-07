@@ -14,3 +14,4 @@
 * https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2022-09-30%20mercer3ger.png
 * https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2022-09-30%20mercer4ger.png
 * https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2022-09-30%20mercer5ger.png
+* https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-September-2022.pdf
