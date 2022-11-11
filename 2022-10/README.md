@@ -10,3 +10,8 @@
 * https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Oktober-2022.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/10/HI_IFRS_Rechnungszins_dt_2022-10-31.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/10/HI_IFRS_Rechnungszins_en_2022-10-31.pdf
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-10-31%20mercer.de%20-%20ger%20-%20pic1.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-10-31%20mercer.de%20-%20ger%20-%20pic2.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-10-31%20mercer.de%20-%20ger%20-%20pic3.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-10-31%20mercer.de%20-%20ger%20-%20pic4.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-10-31%20mercer.de%20-%20ger%20-%20pic5.png
