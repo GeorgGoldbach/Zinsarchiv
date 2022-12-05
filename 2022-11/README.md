@@ -17,3 +17,4 @@
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-11-30%20mercer.de%20-%20ger%20-%20pic3.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-11-30%20mercer.de%20-%20ger%20-%20pic4.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-11-30%20mercer.de%20-%20ger%20-%20pic5.png
+* https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-November-2022.pdf
