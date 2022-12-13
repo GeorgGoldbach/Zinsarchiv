@@ -4,3 +4,6 @@
 * https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-11-30%20mercer.de%20-%20ger%20-%20pic4.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-11-30%20mercer.de%20-%20ger%20-%20pic5.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-12-12%20mercer.de%20-%20ger%20-%20pic1.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-12-12%20mercer.de%20-%20ger%20-%20pic2.png
+* https://www.mercer.de/content/dam/mercer/assets/content-images/2022-12-12%20mercer.de%20-%20ger%20-%20pic3.png
