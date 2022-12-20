@@ -11,3 +11,4 @@
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
 * https://www.aon.com/getmedia/6ee710d6-2e25-4a32-ab52-2bdef8b6e7bc/Rechnungszinsinformation_Subindex.pdf
 * https://www.aon.com/getmedia/b423ed74-f07a-4088-931e-d5ced81e4bda/Rechnungszinsinformation_Subindex_EN.pdf
+* https://twitter.com/Juergen_Fodor/status/1605145842251333632
