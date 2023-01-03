@@ -2,3 +2,4 @@
 
 **Quellen:**
 * https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-15-Dezember-2022.pdf
+* https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-31-Dezember-2022.pdf
