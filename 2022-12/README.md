@@ -14,3 +14,4 @@
 * https://twitter.com/Juergen_Fodor/status/1605145842251333632
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/12/HI_IFRS_Rechnungszins_dt_2022-12-31.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/12/HI_IFRS_Rechnungszins_en_2022-12-31.pdf
+* https://twitter.com/Juergen_Fodor/status/1610174603116302336
