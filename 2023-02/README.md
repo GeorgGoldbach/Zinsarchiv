@@ -9,3 +9,8 @@
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2023/02/HI_IFRS_Rechnungszins_dt_2023-02-28.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2023/02/HI_IFRS_Rechnungszins_en_2023-02-28.pdf
 * https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Februar-2023.pdf
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-02-28%20mercer1.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-02-28%20mercer2.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-02-28%20mercer3.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-02-28%20mercer4.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-02-28%20mercer5.png
