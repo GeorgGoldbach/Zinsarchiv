@@ -6,3 +6,8 @@
 * https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
 * https://www.aon.com/getmedia/fc250d16-5b94-44e2-974d-5cd00f66443f/Rechnungszinsinformation_Eurozone.pdf
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-03-31-mercer1.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-03-31-mercer2.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-03-31-mercer3.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-03-31-mercer4.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-03-31-mercer5.png
