@@ -13,3 +13,4 @@
 * https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-03-31-mercer5.png
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2023/03/HI_IFRS_Rechnungszins_dt_2023-03-31.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2023/03/HI_IFRS_Rechnungszins_en_2023-03-31.pdf
+* https://twitter.com/Juergen_Fodor/status/1643178939928530945
