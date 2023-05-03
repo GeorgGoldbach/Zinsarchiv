@@ -12,3 +12,5 @@
 * https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-04-30%20mercer-3.png
 * https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-04-30%20mercer-4.png
 * https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-04-30%20mercer-5.png
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2023/04/HI_IFRS_Rechnungszins_dt_2023-04-30.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2023/04/HI_IFRS_Rechnungszins_en_2023-04-30.pdf
