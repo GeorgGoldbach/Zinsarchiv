@@ -7,3 +7,8 @@
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
 * https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-April-2023.pdf
 * https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-04-30%20mercer-1.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-04-30%20mercer-2.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-04-30%20mercer-3.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-04-30%20mercer-4.png
+* https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-04-30%20mercer-5.png
