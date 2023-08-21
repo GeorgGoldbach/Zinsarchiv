@@ -72,7 +72,7 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
         cutindicatorright = '.pdf'
 
     elif actuary == "WTW":
-        actuaryurl = 'https://www.wtwco.com/-/media/wtw/insights/campaigns'
+        actuaryurl = 'https://www.wtwco.com/de-de/insights/campaigns/rechnungszins-nach-ifrs-us-gaap-und-hgb'
 
         # Indicators for reportdate
         standindicator = '/rechnungszins/rechnungszins-'
