@@ -72,15 +72,15 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
         cutindicatorright = '.pdf'
 
     elif actuary == "WTW":
-        actuaryurl = 'https://www.willistowerswatson.com/de-DE/Insights/campaigns/rechnungszins-nach-ifrs-us-gaap-und-hgb'
+        actuaryurl = 'https://www.wtwco.com/-/media/wtw/insights/campaigns'
 
         # Indicators for reportdate
-        standindicator = '/Rechnungszins/Rechnungszins-'
-        cutstandindicatorleft = '/Rechnungszins/Rechnungszins-'
+        standindicator = '/rechnungszins/rechnungszins-'
+        cutstandindicatorleft = '/rechnungszins/rechnungszins-'
 
         # Indicators for fileurl
         fileurlbeginning = ''
-        fileurlindicator = '/Rechnungszins/Rechnungszins-'
+        fileurlindicator = '/rechnungszins/rechnungszins-'
         cutindicatorleft = 'href="'
         cutindicatorright = '.pdf'
 
