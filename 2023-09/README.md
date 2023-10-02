@@ -3,3 +3,5 @@
 **Quellen:**
 * https://www.aon.com/getmedia/6ee710d6-2e25-4a32-ab52-2bdef8b6e7bc/Rechnungszinsinformation_Subindex.pdf
 * https://www.aon.com/getmedia/b423ed74-f07a-4088-931e-d5ced81e4bda/Rechnungszinsinformation_Subindex_EN.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2023/09/HI_IFRS_Rechnungszins_dt_2023-09-30.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2023/09/HI_IFRS_Rechnungszins_en_2023-09-30.pdf
