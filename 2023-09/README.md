@@ -7,3 +7,4 @@
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2023/09/HI_IFRS_Rechnungszins_en_2023-09-30.pdf
 * https://www.aon.com/getmedia/fc250d16-5b94-44e2-974d-5cd00f66443f/Rechnungszinsinformation_Eurozone.pdf
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
+* https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
