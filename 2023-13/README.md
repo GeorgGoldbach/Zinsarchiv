@@ -9,3 +9,4 @@
 * https://www.wtwco.com/-/media/wtw/insights/campaigns/rechnungszins/rechnungszins-februar-2023.pdf
 * https://www.wtwco.com/-/media/wtw/insights/campaigns/rechnungszins/rechnungszins-januar-2023.pdf
 * https://www.wtwco.com/-/media/wtw/insights/campaigns/rechnungszins/rechnungszins-august-2023.pdf
+* https://www.wtwco.com/-/media/wtw/insights/campaigns/rechnungszins/rechnungszins-september-2023.pdf
