@@ -8,3 +8,4 @@
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2023/06/HI_IFRS_Rechnungszins_dt_2023-06-30.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2023/06/HI_IFRS_Rechnungszins_en_2023-06-30.pdf
+* https://www.wtwco.com/-/media/wtw/insights/campaigns/rechnungszins/rechnungszins-juni-2023.pdf

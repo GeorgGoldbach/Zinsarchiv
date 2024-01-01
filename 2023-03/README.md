@@ -15,3 +15,4 @@
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2023/03/HI_IFRS_Rechnungszins_en_2023-03-31.pdf
 * https://twitter.com/Juergen_Fodor/status/1643178939928530945
 * https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Maerz-2023.pdf
+* https://www.wtwco.com/-/media/wtw/insights/campaigns/rechnungszins/rechnungszins-maerz-2023.pdf

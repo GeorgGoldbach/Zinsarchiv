@@ -16,3 +16,4 @@
 * https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Februar-2022.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/02/HI_IFRS_Rechnungszins_dt_2022-02-28.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2022/02/HI_IFRS_Rechnungszins_en_2022-02-28.pdf
+* https://www.wtwco.com/-/media/wtw/insights/campaigns/rechnungszins/rechnungszins-februar-2022.pdf

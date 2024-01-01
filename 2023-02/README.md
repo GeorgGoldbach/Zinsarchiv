@@ -15,3 +15,4 @@
 * https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-02-28%20mercer4.png
 * https://www.mercer.de/content/dam/mercer/attachments/europe/Germany/2023-02-28%20mercer5.png
 * https://twitter.com/Juergen_Fodor/status/1631219793641582598
+* https://www.wtwco.com/-/media/wtw/insights/campaigns/rechnungszins/rechnungszins-februar-2023.pdf

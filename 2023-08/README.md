@@ -8,3 +8,4 @@
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2023/08/HI_IFRS_Rechnungszins_dt_2023-08-31.pdf
 * https://www.heubeck.de/assets/Download/HI_Zinsinfo/2023/08/HI_IFRS_Rechnungszins_en_2023-08-31.pdf
 * https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
+* https://www.wtwco.com/-/media/wtw/insights/campaigns/rechnungszins/rechnungszins-august-2023.pdf

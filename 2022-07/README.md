@@ -15,3 +15,4 @@
 * https://www.mercer.de/content/dam/mercer/assets/content-images/de-2022-mercer-image-3-de.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/de-2022-mercer-image-4-de.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/de-2022-mercer-image-5-de.png
+* https://www.wtwco.com/-/media/wtw/insights/campaigns/rechnungszins/rechnungszins-juli-2022.pdf

@@ -15,3 +15,4 @@
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-10-31%20mercer.de%20-%20ger%20-%20pic3.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-10-31%20mercer.de%20-%20ger%20-%20pic4.png
 * https://www.mercer.de/content/dam/mercer/assets/content-images/2022-10-31%20mercer.de%20-%20ger%20-%20pic5.png
+* https://www.wtwco.com/-/media/wtw/insights/campaigns/rechnungszins/rechnungszins-oktober-2022.pdf

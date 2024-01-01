@@ -16,3 +16,4 @@
 * https://twitter.com/Juergen_Fodor/status/1510910722921971715
 * https://twitter.com/Juergen_Fodor/status/1510909743015075841
 * https://www.wtwco.com/-/media/WTW/Insights/campaigns/Rechnungszins/Rechnungszins-Maerz-2022.pdf
+* https://www.wtwco.com/-/media/wtw/insights/campaigns/rechnungszins/rechnungszins-maerz-2022.pdf
