@@ -100,6 +100,7 @@ for actuary in ["AON", "KMKOLL", "WTW", "Heubeck", "Heubeck2"]:
             cutindicatorleft = 'href="/fileadmin/custom/Zinsinfo/'  
         fileurlindicator = '.pdf'
         cutindicatorright = '.pdf'
+        actuary = "Heubeck"
 
     # START
     print(actuary)
@@ -112,7 +113,7 @@ for actuary in ["AON", "KMKOLL", "WTW", "Heubeck", "Heubeck2"]:
     searchstand = search_string_in_file(actuaryfile, standindicator)
 
     # Search for fileurl
-    if actuary in ["Heubeck", "Heubeck2"]:
+    if actuary == "Heubeck":
         searchfileurl = []
         results = search_string_in_file(actuaryfile, fileurlindicator)
         for result in results:
@@ -170,7 +171,7 @@ for actuary in ["AON", "KMKOLL", "WTW", "Heubeck", "Heubeck2"]:
             else:
                 month = "13"
             reportdate = f"{year}-{month}"
-        elif actuary in ["Heubeck", "Heubeck2"]:
+        elif actuary == "Heubeck":
             reportdate = re.search(r'\d+-\d+-\d+', line).group()
             year = reportdate.split('-')[0][0:4]
             month = reportdate.split('-')[1]
