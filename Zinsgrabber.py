@@ -27,10 +27,10 @@ check = "&#10004;"
 cross = "&#10060;"
 useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.101 Safari/537.36"
 
-# Mercer
-# ======
+# Mercer vorerst entfernt (bedarf größerer Überarbeitung)
+# =======================================================
 
-for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
+for actuary in ["AON", "KMKOLL", "WTW", "Heubeck"]:
 
     if actuary == "Mercer":
         actuaryurl = 'https://www.mercer.de/our-thinking/rechnungszins-fuer-ifrs-us-gaap-bilmog-bewertungen.html'
@@ -85,7 +85,7 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
         cutindicatorright = '.pdf'
 
     elif actuary == "Heubeck":
-        actuaryurl = 'https://www.heubeck.de/aktuelles/informationen/zinsinfo'
+        actuaryurl = 'https://www.heubeck.de/aktuelles/fachwissen/zinsinfo'
 
         # Indicators for reportdate
         standindicator = ''
@@ -139,29 +139,29 @@ for actuary in ["Mercer", "AON", "KMKOLL", "WTW", "Heubeck"]:
             stand = searchstand[i].split(cutstandindicatorleft)[1]
             year = stand.split('-')[1][0:4]
             month = stand.split('-')[0]
-            if month == "Januar":
+            if month.casefold() == "Januar".casefold():
                 month = "01"
-            elif month == "Februar":
+            elif month.casefold() == "Februar".casefold():
                 month = "02"
-            elif month in ["Mrz", "Maerz"]:
+            elif month.casefold() in ["Mrz".casefold(), "Maerz".casefold()]:
                 month = "03"
-            elif month == "April":
+            elif month.casefold() == "April".casefold():
                 month = "04"
-            elif month == "Mai":
+            elif month.casefold() == "Mai".casefold():
                 month = "05"
-            elif month == "Juni":
+            elif month.casefold() == "Juni".casefold():
                 month = "06"
-            elif month == "Juli":
+            elif month.casefold() == "Juli".casefold():
                 month = "07"
-            elif month == "August":
+            elif month.casefold() == "August".casefold():
                 month = "08"
-            elif month == "September":
+            elif month.casefold() == "September".casefold():
                 month = "09"
-            elif month == "Oktober":
+            elif month.casefold() == "Oktober".casefold():
                 month = "10"
-            elif month == "November":
+            elif month.casefold() == "November".casefold():
                 month = "11"
-            elif month == "Dezember":
+            elif month.casefold() == "Dezember".casefold():
                 month = "12"
             else:
                 month = "13"
