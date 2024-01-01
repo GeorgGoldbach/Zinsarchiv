@@ -30,7 +30,7 @@ useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko
 # Mercer vorerst entfernt (bedarf größerer Überarbeitung)
 # =======================================================
 
-for actuary in ["AON", "KMKOLL", "WTW", "Heubeck"]:
+for actuary in ["AON", "KMKOLL", "WTW", "Heubeck", "Heubeck2"]:
 
     if actuary == "Mercer":
         actuaryurl = 'https://www.mercer.de/our-thinking/rechnungszins-fuer-ifrs-us-gaap-bilmog-bewertungen.html'
@@ -84,7 +84,7 @@ for actuary in ["AON", "KMKOLL", "WTW", "Heubeck"]:
         cutindicatorleft = 'href="'
         cutindicatorright = '.pdf'
 
-    elif actuary == "Heubeck":
+    elif actuary in ["Heubeck", "Heubeck2"]:
         actuaryurl = 'https://www.heubeck.de/aktuelles/fachwissen/zinsinfo'
 
         # Indicators for reportdate
@@ -92,9 +92,13 @@ for actuary in ["AON", "KMKOLL", "WTW", "Heubeck"]:
         cutstandindicatorleft = ''
 
         # Indicators for fileurl
-        fileurlbeginning = 'https://www.heubeck.de/assets/Download/HI_Zinsinfo/'
+        if actuary == "Heubeck":
+            fileurlbeginning = 'https://www.heubeck.de/assets/Download/HI_Zinsinfo/'
+            cutindicatorleft = 'href="/assets/Download/HI_Zinsinfo/'
+        elif actuary == "Heubeck2":
+            fileurlbeginning = 'https://www.heubeck.de/fileadmin/custom/Zinsinfo/'
+            cutindicatorleft = 'href="/fileadmin/custom/Zinsinfo/'  
         fileurlindicator = '.pdf'
-        cutindicatorleft = 'href="/assets/Download/HI_Zinsinfo/'
         cutindicatorright = '.pdf'
 
     # START
@@ -108,7 +112,7 @@ for actuary in ["AON", "KMKOLL", "WTW", "Heubeck"]:
     searchstand = search_string_in_file(actuaryfile, standindicator)
 
     # Search for fileurl
-    if actuary == "Heubeck":
+    if actuary in ["Heubeck", "Heubeck2"]:
         searchfileurl = []
         results = search_string_in_file(actuaryfile, fileurlindicator)
         for result in results:
@@ -166,7 +170,7 @@ for actuary in ["AON", "KMKOLL", "WTW", "Heubeck"]:
             else:
                 month = "13"
             reportdate = f"{year}-{month}"
-        elif actuary == "Heubeck":
+        elif actuary in ["Heubeck", "Heubeck2"]:
             reportdate = re.search(r'\d+-\d+-\d+', line).group()
             year = reportdate.split('-')[0][0:4]
             month = reportdate.split('-')[1]
