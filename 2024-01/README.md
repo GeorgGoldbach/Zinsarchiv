@@ -6,3 +6,4 @@
 * https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
 * https://www.aon.com/getmedia/fc250d16-5b94-44e2-974d-5cd00f66443f/Rechnungszinsinformation_Eurozone.pdf
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
+* https://www.heubeck.de/assets/Download/HI_Zinsinfo/2024/01/HI_IFRS_Rechnungszins_dt_2024-01-31.pdf
