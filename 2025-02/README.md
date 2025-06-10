@@ -8,3 +8,4 @@
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
 * https://www.heubeck.de/fileadmin/custom/Zinsinfo/HI_IFRS_Rechnungszins_dt_2025-02-28.pdf
 * https://www.heubeck.de/fileadmin/custom/Zinsinfo/HI_IFRS_Rechnungszins_en_2025-02-28.pdf
+* https://www.wtwco.com/-/media/wtw/insights/campaigns2/2025/03/rechnungszins-februar-2025.pdf

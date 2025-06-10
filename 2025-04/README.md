@@ -3,3 +3,4 @@
 **Quellen:**
 * https://www.heubeck.de/fileadmin/custom/Zinsinfo/HI_IFRS_Rechnungszins_dt_2025-04-30.pdf
 * https://www.heubeck.de/fileadmin/custom/Zinsinfo/HI_IFRS_Rechnungszins_en_2025-04-30.pdf
+* https://www.wtwco.com/-/media/wtw/insights/campaigns2/2025/05/rechnungszins-april-2025.pdf
