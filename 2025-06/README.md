@@ -8,3 +8,4 @@
 * https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
 * https://www.heubeck.de/fileadmin/custom/Zinsinfo/HI_IFRS_Rechnungszins_dt_2025-06-30.pdf
 * https://www.heubeck.de/fileadmin/custom/Zinsinfo/HI_IFRS_Rechnungszins_en_2025-06-30.pdf
+* https://www.wtwco.com/-/media/wtw/insights/campaigns2/2025/07/rechnungszins-juni-2025.pdf
