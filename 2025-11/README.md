@@ -6,3 +6,5 @@
 * https://www.aon.com/getmedia/fc250d16-5b94-44e2-974d-5cd00f66443f/Rechnungszinsinformation_Eurozone.pdf
 * https://www.aon.com/getmedia/9ce63b16-a135-477c-be84-f7b166b3c831/Rechnungszinsinformation_Eurozone_EN.pdf
 * https://www.aon.com/getmedia/6ee710d6-2e25-4a32-ab52-2bdef8b6e7bc/Rechnungszinsinformation_Subindex.pdf
+* https://www.heubeck.de/fileadmin/custom/Zinsinfo/HI_IFRS_Rechnungszins_dt_2025-11-30.pdf
+* https://www.heubeck.de/fileadmin/custom/Zinsinfo/HI_IFRS_Rechnungszins_en_2025-11-30.pdf
