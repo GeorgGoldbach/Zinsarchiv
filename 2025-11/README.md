@@ -8,3 +8,4 @@
 * https://www.aon.com/getmedia/6ee710d6-2e25-4a32-ab52-2bdef8b6e7bc/Rechnungszinsinformation_Subindex.pdf
 * https://www.heubeck.de/fileadmin/custom/Zinsinfo/HI_IFRS_Rechnungszins_dt_2025-11-30.pdf
 * https://www.heubeck.de/fileadmin/custom/Zinsinfo/HI_IFRS_Rechnungszins_en_2025-11-30.pdf
+* https://www.wtwco.com/-/media/wtw/insights/campaigns2/2025/12/rechnungszins-november-2025.pdf
