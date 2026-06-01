@@ -75,12 +75,12 @@ for actuary in ["AON", "KMKOLL", "WTW", "Heubeck", "Heubeck2"]:
         actuaryurl = 'https://www.wtwco.com/de-de/insights/campaigns/rechnungszins-nach-ifrs-us-gaap-und-hgb'
 
         # Indicators for reportdate
-        standindicator = 'https://www.wtwco.com/-/media/wtw/insights/campaigns2/'
+        standindicator = 'https://edge.sitecorecloud.io/willistower8735-wtw7458-prode832-66e2/media/project/wtw-sites/wtwco/insights/campaigns2/'
         cutstandindicatorleft = '/rechnungszins-'
 
         # Indicators for fileurl
         fileurlbeginning = ''
-        fileurlindicator = 'https://www.wtwco.com/-/media/wtw/insights/campaigns2/'
+        fileurlindicator = 'https://edge.sitecorecloud.io/willistower8735-wtw7458-prode832-66e2/media/project/wtw-sites/wtwco/insights/campaigns2/'
         cutindicatorleft = 'href="'
         cutindicatorright = '.pdf'
 
