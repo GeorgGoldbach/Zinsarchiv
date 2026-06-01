@@ -27,10 +27,10 @@ check = "&#10004;"
 cross = "&#10060;"
 useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.101 Safari/537.36"
 
-# Mercer vorerst entfernt (bedarf größerer Überarbeitung)
+# Mercer & WTW vorerst entfernt (bedarf größerer Überarbeitung)
 # =======================================================
 
-for actuary in ["AON", "KMKOLL", "WTW", "Heubeck", "Heubeck2"]:
+for actuary in ["AON", "KMKOLL", "Heubeck", "Heubeck2"]:
 
     if actuary == "Mercer":
         actuaryurl = 'https://www.mercer.de/our-thinking/rechnungszins-fuer-ifrs-us-gaap-bilmog-bewertungen.html'
