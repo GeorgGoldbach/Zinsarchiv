@@ -2,3 +2,4 @@
 
 **Quellen:**
 * https://www.kmkoll.de/dateien/IFRSZinsermittlung.pdf
+* https://www.aon.com/getmedia/b423ed74-f07a-4088-931e-d5ced81e4bda/Rechnungszinsinformation_Subindex_EN.pdf
